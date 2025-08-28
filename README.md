@@ -1,4 +1,4 @@
-# PDF Thumbnail API
+# PDF Manager API
 
 A REST API built with Fastify and TypeScript for managing PDF documents with automatic thumbnail generation. This service allows you to upload PDF files, generate thumbnails, and perform CRUD operations on document metadata.
 
