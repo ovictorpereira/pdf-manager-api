@@ -1,0 +1,21 @@
+node_modules
+coverage
+.DS_Store
+dist
+dist-ssr
+coverage
+*.local
+.env
+.env.test
+drizzle
+documents
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
